@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1yk4y1D7P6
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的古典舞在线交流平台，分为管理后台和用户网页端，可以给管理员和会员用户使用，包括服饰管理、会员管理、课程管理、舞蹈教练管理、在线招生模块和系统基础模块，项目编号T057。
 
